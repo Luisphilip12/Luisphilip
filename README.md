@@ -22,4 +22,5 @@ Olá, eu sou o Luis Philip Wermelinger
 ## Meus contatos
 
 - Github @Luisphilip12
-- email luisphilip46@gmail.com
+- Email luisphilip46@gmail.com
+- LinkendIn Luis Philip Angelo Wermelinger
