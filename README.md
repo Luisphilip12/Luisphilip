@@ -4,6 +4,8 @@ Olá, eu sou o Luis Philip Wermelinger
 
 ![github avatar](https://user-images.githubusercontent.com/100095739/176213999-8d126dbb-3b75-442b-b226-acc601eb01cd.jpg)
 
+- Moro em Duas Barras,RJ
+
 ## Meus hobbies
 
 - ler
@@ -20,5 +22,4 @@ Olá, eu sou o Luis Philip Wermelinger
 ## Meus contatos
 
 - Github @Luisphilip12
-- Instagram @luis.wermelinger
 - email luisphilip46@gmail.com
